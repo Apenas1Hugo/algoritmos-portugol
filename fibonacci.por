@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    inteiro pri, seg, soma
+    inteiro pri, seg, soma, c
     pri = 0
     seg = 1
     soma = pri + seg

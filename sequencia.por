@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
     inteiro resp
-    faca {
+    faca{
       escreva("======MENU======\n")
       escreva("[1] de 1 a 10\n")
       escreva("[2] de 10 a 1\n")
@@ -14,6 +14,6 @@ programa {
       senao se (resp == 2) {
         escreva("10,9,8,7,6,5,4,3,2,1\n")
       }
-    } enquanto (resp != 3)
+    }enquanto(resp != 3 )
   }
 }
